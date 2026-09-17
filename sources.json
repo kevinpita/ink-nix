@@ -1,0 +1,13 @@
+{
+  "version": "0.7.0",
+  "sources": {
+    "x86_64-linux": {
+      "asset": "ink-linux-amd64",
+      "hash": "sha256-ILMALFtx7m6gM56LNf95UVwcMLmMgLx1QOpA4k+8YPA="
+    },
+    "aarch64-linux": {
+      "asset": "ink-linux-arm64",
+      "hash": "sha256-jz3AnR2g9A6IjCaXE8XVm5ntnlaW2Z78S27mjsPzJCw="
+    }
+  }
+}
